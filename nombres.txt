@@ -1,5 +1,7 @@
 nombres
 Pablo
 Eduardo
-Sebastian
+Pedro
+José
 Raul
+Sebastian
