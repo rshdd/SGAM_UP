@@ -1,4 +1,4 @@
 # SGAM_UP
 Clase de Desarrollo Móvil
 
-SGAM
+SGAM - Práctica Git
