@@ -9,8 +9,4 @@ Villa
 De La Esperanza
 De la Calle
 Vargas
-<<<<<<< HEAD
 Magdalena.
-=======
-Magdalena
->>>>>>> 93e62caaec9f171134c5839b77be6d9b232de6e2
