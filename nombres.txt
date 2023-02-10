@@ -6,10 +6,5 @@ Pedro
 Esteban
 Juan
 Lupe
-<<<<<<< HEAD
 María
-Estela
-=======
-Luis 
-Violeta
->>>>>>> 77c3bdea64a90fe9ab0ca6fa90b4925e98ae732b
+Estela.
